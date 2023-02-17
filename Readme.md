@@ -10,45 +10,45 @@
 
 >Screenshot of the running Docker Container after installing Jenkins
 >
->![1](img\1.png)
+>![1](img/1.png)
 
 **Task 2**
 
 > Picture showing the console output after the build is successful
 >
-> ![2](img\2.png)
+> ![2](img/2.png)
 >
 > Picture showing the Stable state of the task in Build History of Jenkins
 >
-> ![3](img\3.png)
+> ![3](img/3.png)
 
 **Task 3**
 
 > Console output of second job
 >
-> ![4](img\4.png)
+> ![4](img/4.png)
 >
 > Status page of first job
 >
-> ![5](img\5.png)
+> ![5](img/5.png)
 >
 > Build History of Jenkins
 >
-> ![6](img\6.png)
+> ![6](img/6.png)
 >
 > Jenkins Dashboard
 >
-> ![7](img\7.png)
+> ![7](img/7.png)
 
 **Task 4**
 
 > Webhook added to your GitHub repository
 >
-> ![8](img\8.png)
+> ![8](img/8.png)
 >
 > Console Output of second job displaying the change made in hello.cpp file
 >
-> ![9](img\9.png)
+> ![9](img/9.png)
 
 **Task 5**
 
@@ -91,11 +91,11 @@
 >
 > ​    ● Verify Declarative: Post Actions stage succeed for handling failures. 
 >
-> ![11](img\11.png)
+> ![11](img/11.png)
 >
 > Console Output of the Pipeline
 >
-> ![10](img\10.png)
+> ![10](img/10.png)
 >
 > Link to the created GitHub repository
 >
