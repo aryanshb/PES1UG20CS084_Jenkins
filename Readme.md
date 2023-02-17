@@ -10,7 +10,7 @@
 
 >Screenshot of the running Docker Container after installing Jenkins
 >
->![1](img\1.png)
+>![1](img/1.png)
 
 **Task 2**
 
